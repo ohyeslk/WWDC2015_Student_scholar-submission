@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>info</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>Role</string>
+				<key>description</key>
+				<string>Co-Fouder of Chogic Technology, Co-Creater of Time School App. Seed Funded by IDG Ventures. Mainly focused on iOS App development and backend data anaysis</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Description</string>
+				<key>description</key>
+				<string>Time School - Coolest social network exculsively for College student, connecting social medial with O2O service. Mainly focused on iOS App development and backend data anaysis(Apache Storm and Twitter Fabric)</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Date</string>
+				<key>description</key>
+				<string>Nov 2014 - Present</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Web Page</string>
+				<key>description</key>
+				<string>http://www.shiguang.im</string>
+			</dict>
+		</array>
+		<key>image_name</key>
+		<string>icn_time_school</string>
+		<key>name</key>
+		<string>Time School -  Social Network App</string>
+		<key>url</key>
+		<string>https://itunes.apple.com/cn/app/shi-guang-xiao-yuan-quan-guo/id892360773?l=en&amp;mt=8</string>
+		<key>screenshots</key>
+		<array>
+			<string>sh_timeschool_1</string>
+			<string>sh_timeschool_2</string>
+			<string>sh_timeschool_3</string>
+			<string>sh_timeschool_4</string>
+			<string>sh_timeschool_5</string>
+		</array>
+	</dict>
+	<dict>
+		<key>is_mac_OS</key>
+		<true/>
+		<key>info</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>Web Page</string>
+				<key>description</key>
+				<string>http://weenix.cs.brown.edu/mediawiki/index.php/Weenix</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Role</string>
+				<key>description</key>
+				<string>Course Project, ranked No.1 of 20 teams in Operating System Course</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Description</string>
+				<key>description</key>
+				<string>– Completed Weenix kernel OS (Brown University) using C. Analyzed and implemented core functions in processes and threads, device drivers, virtual file system, System file system, and virtual memory system.
+– Hands-on experience with multi-threaded programming and low-level OS coding like system-level API calls, CPU scheduling and address mapping and translation.</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Date</string>
+				<key>description</key>
+				<string>Aug.2014 - Dec.2014</string>
+			</dict>
+		</array>
+		<key>image_name</key>
+		<string>icn_breezy_2</string>
+		<key>name</key>
+		<string>Weenix OS - Kernel Unix </string>
+		<key>url</key>
+		<string>http://weenix.cs.brown.edu/mediawiki/index.php/Weenix</string>
+	</dict>
+	<dict>
+		<key>is_mac_OS</key>
+		<true/>
+		<key>info</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>Role</string>
+				<key>description</key>
+				<string>Winner of USC Trojan Hackathon. Individual project.</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Descriprtion</string>
+				<key>description</key>
+				<string>iOS running game. Used Twitter Fabric, SKPhysicsBody, physicsWorld, SKAction, SKLabelNode and texture atlas to achieve
+features like run, jump, fly and share score to Twitter.</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Date</string>
+				<key>description</key>
+				<string>Nov.2014, 24 hours work</string>
+			</dict>
+		</array>
+		<key>image_name</key>
+		<string>icn_runrunrun</string>
+		<key>name</key>
+		<string>RunRunRun - Winner of USC Trojan Hackathon</string>
+		<key>url</key>
+		<string>http://youtu.be/r_hBtnRUrv4</string>
+		<key>screenshots</key>
+		<array>
+			<string>sh_runrunrun_1</string>
+			<string>sh_runrunrun_2</string>
+			<string>sh_runrunrun_3</string>
+			<string>sh_runrunrun_4</string>
+		</array>
+	</dict>
+	<dict>
+		<key>info</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>Role</string>
+				<key>description</key>
+				<string>Research Assistant in Cognition and Intelligent Computing Research Institute(HDU)</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Job</string>
+				<key>description</key>
+				<string>- Designed Computer-Aided Diagnosis system for murmur detection, tested and evaluated its performance by accuracy, sensitivity, and specificity.
+- Used Low Energy Rate as discriminating parameter to extract feature and calculated from recorded heart signal and performs binary classification of the sample as either normal or murmur.
+- Trained vector machine, output SVM model that describes optimized decision line for classification of evaluation. 
+- Implemented signal acquisitions, algorithm and data visualization on Altera DE2.</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Date</string>
+				<key>description</key>
+				<string>Sep.2013 – June.2014</string>
+			</dict>
+		</array>
+		<key>image_name</key>
+		<string>icn_lucky_words</string>
+		<key>name</key>
+		<string>System for Detecting Cardiac Murmurs</string>
+		<key>url</key>
+		<string>https://itunes.apple.com/app/id654070200</string>
+	</dict>
+	<dict>
+		<key>info</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>Role</string>
+				<key>description</key>
+				<string>Winner of Microsoft openhack2015. Social Media Connector of Facebook, Twitter and Weibo. </string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Description</string>
+				<key>description</key>
+				<string>Used nodejs, HTML5/CSS3, BingTranslate, Ajax, their APIs to built web(https://ftd.herokuapp.com) to syncand update social media status,drag&amp;drop moments to share from one to others,auto-translate status.</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Date</string>
+				<key>description</key>
+				<string>Jan.2015, 48 hours work</string>
+			</dict>
+		</array>
+		<key>image_name</key>
+		<string>icn_parolium</string>
+		<key>name</key>
+		<string>Social Media Connector, Winner of Microsoft Hackathon</string>
+		<key>url</key>
+		<string>https://ftd.herokuapp.com</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Company Name</string>
+			<key>description</key>
+			<string>Chogic Technology Company Limited</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Time and Location</string>
+			<key>description</key>
+			<string>Nov.2014 – Present. Shanghai, China</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Role</string>
+			<key>description</key>
+			<string>Co-Fouder of Chogic Technology, Co-Creater of Time School App. Seed Funded by IDG Ventures.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Description</string>
+			<key>description</key>
+			<string>Time School - Coolest social network exculsively for College student, connecting social medial with O2O service. Mainly focused on iOS App development and backend data anaysis(Apache Storm and Twitter Fabric)</string>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Company Name</string>
+			<key>description</key>
+			<string>Microsoft Corporation</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Time and Location</string>
+			<key>description</key>
+			<string>June.2013 – Sep.2013. Shanghai, China</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Role</string>
+			<key>description</key>
+			<string>Software Development Engineer Intern</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Description</string>
+			<key>description</key>
+			<string>Worked on Speech Recognition project-“key term extraction and summarization from spoken lecture”.Using left/right branching entropy to extract key phrase and utilized K-Means, AdaBoost, ANN to learn feature from PLSA to extract keyword. Summarizing with key term and PLSA by performing random walk on graph.</string>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Company Name</string>
+			<key>description</key>
+			<string>Jinjiang ZhongDeShun Machine CO.Ltd</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Time and Location</string>
+			<key>description</key>
+			<string>June.2012 – Sep.2012. Fujian, China</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Role</string>
+			<key>description</key>
+			<string>Software Developer Intern</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Description</string>
+			<key>description</key>
+			<string>Built website (http://www.zdszz.cn) using Javascript, PHP,CSS, HTML.Focused on embing Flash on to web page.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Web Page</string>
+			<key>description</key>
+			<string>http://www.zdszz.cn</string>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Lab Name</string>
+			<key>description</key>
+			<string>USC Annenberg Innovation Lab</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Time and Location</string>
+			<key>description</key>
+			<string>Oct.2014 – Jan.2015. Los Angeles, CA</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Role</string>
+			<key>description</key>
+			<string>Data Scientist,Student Work</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Description</string>
+			<key>description</key>
+			<string>Utilized Hadoop, HDFS, HBase, Hive and Mahout to start MapReduce and ran optimised rank algorithm to measure the impact of media and individual quality from social media.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Web Page</string>
+			<key>description</key>
+			<string>http://www.annenberglab.com/projects/dsail-black-twitter-project</string>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Lab Name</string>
+			<key>description</key>
+			<string>Laboratory of Student Research Training Programs at HDU</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Time and Location</string>
+			<key>description</key>
+			<string>07/2011 – 07/2014. Hangzhou, China</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Role</string>
+			<key>description</key>
+			<string>Research Assistant</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Web Page</string>
+			<key>description</key>
+			<string>http://elec.hdu.edu.cn/sysjs/html/?154.html</string>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Lab Name</string>
+			<key>description</key>
+			<string>Cognition and Intelligent Computing Research Institute at HDU</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Time and Location</string>
+			<key>description</key>
+			<string>09/2013 – 07/2014. Hangzhou, China</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Role</string>
+			<key>description</key>
+			<string>Research Assistant</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Web Page</string>
+			<key>description</key>
+			<string>http://computer.hdu.edu.cn/index.php/list/46</string>
+		</dict>
+	</array>
+</array>
+</plist>

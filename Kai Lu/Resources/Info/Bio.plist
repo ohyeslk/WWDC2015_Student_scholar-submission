@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Name</string>
+		<key>description</key>
+		<string>Kai Lu (Luke)</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Phone </string>
+		<key>description</key>
+		<string>(213)400-1959</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>e-mail</string>
+		<key>description</key>
+		<string>kailu.luke@gmail.com</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Github</string>
+		<key>description</key>
+		<string>https://github.com/ohyeslk</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>LinkedIn</string>
+		<key>description</key>
+		<string>https://www.linkedin.com/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Personal Website</string>
+		<key>description</key>
+		<string>https://kailuluke.com</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Address</string>
+		<key>description</key>
+		<string>1246 W30th Str, Los Angeles, CA 90007</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Quote</string>
+		<key>description</key>
+		<string>Fun is often frivolous, ephemeral, and easy to obtain, but true fulfillment comes only after overcoming significant and meaningful challenges.</string>
+	</dict>
+</array>
+</plist>

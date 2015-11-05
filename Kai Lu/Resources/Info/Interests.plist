@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>WWDC 2015 student scholar</string>
+		<key>image_name</key>
+		<string>icn_interest_hiking</string>
+		<key>description</key>
+		<string>WWDC 2015 student scholarship (350 / worldwide). Attended WWDC15 from 6.07.2015 to 6.12.2015</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Winner of Trojan Hackathon</string>
+		<key>image_name</key>
+		<string>icn_interest_psychology</string>
+		<key>description</key>
+		<string>Winner of 2014 Trojan Hackathon. iOS running game: &quot;RunRunRun&quot;</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Bronze Medal at Innovate Asia </string>
+		<key>image_name</key>
+		<string>icn_interest_design</string>
+		<key>description</key>
+		<string>Intel Innovate Asia 2013 FPGA Design Contest. Project: &quot;Real-time Cartoon Work&quot;</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>2nd prize in Challenge Cup</string>
+		<key>image_name</key>
+		<string>icn_interest_literature</string>
+		<key>description</key>
+		<string>2nd prize in China 2013 “Challenge Cup” Academic and Technology Contest. Project: &quot;Smart Control and Limb Rehabilitation System based on BCI&quot;</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>2nd prize in Mathamatic Modeling </string>
+		<key>image_name</key>
+		<string>icn_interest_skiing</string>
+		<key>description</key>
+		<string>2nd prize in 2012 Mathamatic Modeling </string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>China National Scholarship</string>
+		<key>image_name</key>
+		<string>icn_interest_hiking</string>
+		<key>description</key>
+		<string>China 2013 National Scholarship</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Excellent Student Scholarship</string>
+		<key>image_name</key>
+		<string>icn_interest_psychology</string>
+		<key>description</key>
+		<string>7 times First Class Student Scholarship (2010-2014)</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>HDU Top 10 Student</string>
+		<key>image_name</key>
+		<string>icn_interest_design</string>
+		<key>description</key>
+		<string>Top 10 Students in HDU and the Best Eloquence Award</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Other Scholarship</string>
+		<key>image_name</key>
+		<string>icn_interest_literature</string>
+		<key>description</key>
+		<string>Science &amp; Technology Innovation Individual Scholarship, 4 times</string>
+	</dict>
+</array>
+</plist>

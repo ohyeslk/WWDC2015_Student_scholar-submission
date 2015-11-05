@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Programming Language</string>
+		<key>description</key>
+		<string>Web development, iOS development, data analysis science and machine learning</string>
+		<key>skills</key>
+		<array>
+			<string>C, C++</string>
+			<string>Python</string>
+			<string>Swift</string>
+			<string>Objective-C</string>
+			<string>Java</string>
+			<string>C#</string>
+			<string>Linux shell script</string>
+			<string>Verilog HDL</string>
+			<string>MATLAB</string>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Big Data Anaysis</string>
+		<key>description</key>
+		<string>Familiar with big data anaysis framework and tools</string>
+		<key>skills</key>
+		<array>
+			<string>Hadoop</string>
+			<string>HBase</string>
+			<string>Apache Storm</string>
+			<string>HDFS</string>
+			<string>Hive</string>
+			<string>Mahout</string>
+			<string>Zookeeper</string>
+			<string>NOSQL</string>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Web Technology</string>
+		<key>description</key>
+		<string>Build quite a few website. More detail on Projects Category</string>
+		<key>skills</key>
+		<array>
+			<string>Node.js</string>
+			<string>Mongodb</string>
+			<string>MYSQL</string>
+			<string>XML, JSON</string>
+			<string>HTML5,CSS3</string>
+			<string>JavaScript</string>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>iOS Mobile Development</string>
+		<key>description</key>
+		<string>iOS developer for one year. WWDC15 Student Scholarship Receipts. More detail on Projects Category</string>
+		<key>skills</key>
+		<array>
+			<string>Xcode</string>
+			<string>iOS Frameworks</string>
+			<string>Paypal Mobile SDK</string>
+			<string>Sketch</string>
+			<string>Twitter Fabric Mobile SDK</string>
+			<string>Google Maps Mobile SDK</string>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Machine Learning</string>
+		<key>description</key>
+		<string>Handle most machine learning algorithm and open source framework</string>
+		<key>skills</key>
+		<array>
+			<string>Python NTLK</string>
+			<string>Mahout</string>
+			<string>SPSS</string>
+		</array>
+	</dict>
+</array>
+</plist>

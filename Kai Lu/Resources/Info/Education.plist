@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Master of Science</string>
+			<key>description</key>
+			<string>University of Southern California (USC)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Major</string>
+			<key>description</key>
+			<string>Computer Engineering</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>GPA</string>
+			<key>description</key>
+			<string>3.7/4.0</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Years</string>
+			<key>description</key>
+			<string>Aug. 2014 - May. 2015(Expected)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Web Page</string>
+			<key>description</key>
+			<string>http://www.usc.edu</string>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Bachelor of Engineering </string>
+			<key>description</key>
+			<string>Hangzhou Dianzi University (HDU)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Major</string>
+			<key>description</key>
+			<string>Computer and Information Engineering</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>GPA &amp; Ranking</string>
+			<key>description</key>
+			<string>3.9/4.0, ranked top 1%. Honored Graduate in China. China 2013 National Scholarship,First Class Student Scholarship(2010-2014)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Reported by People’s Daily</string>
+			<key>description</key>
+			<string>http://edu.people.com.cn/n/2014/0527/c1053-25072189.html</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Years</string>
+			<key>description</key>
+			<string>Sep. 2010 - June. 2014</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Web Page</string>
+			<key>description</key>
+			<string>http://www.hdu.edu.cn/</string>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Additional</string>
+			<key>description</key>
+			<string>Coursera </string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Web Page</string>
+			<key>description</key>
+			<string>https://www.coursera.org</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Course 1</string>
+			<key>description</key>
+			<string>Machine Learning by Andrew Ng, Final Grade: 90%</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Course 2</string>
+			<key>description</key>
+			<string>Neural Networks for Machine Learning by Geoffrey Hinton</string>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Additional</string>
+			<key>description</key>
+			<string>Mongodb University</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Web Page</string>
+			<key>description</key>
+			<string>https://university.mongodb.com</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Course</string>
+			<key>description</key>
+			<string>M101JS: MONGODB FOR NODE.JS DEVELOPERS, MongoDB Professional Certification.</string>
+		</dict>
+	</array>
+</array>
+</plist>
